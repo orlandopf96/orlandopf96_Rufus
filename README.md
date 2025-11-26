@@ -8,4 +8,4 @@ Cualquier duda contactar a través de.
 - `*`WhatsApp: +5351668065 
 
 
-https://github.com/orlandopf96/orlandopf96_IDM-Activation-Script
+https://github.com/orlandopf96
