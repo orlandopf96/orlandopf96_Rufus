@@ -1,5 +1,6 @@
 # **orlandopf96_Rufus (Actualización)**
 
+![Screenshot](/PICTURES/imagen.jpg)
 
 ## 🛠️ **orlandopf96**
 Contenido libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
